@@ -745,7 +745,7 @@ user agent stylesheet h3 {
 }
 
 .parallax{
-        background-image: url("/Pictures/Burger\ Restaurant\ Food\ Background\,\ Hamburger\,\ Restaurant\,\ Food\ Background\ Image\ And\ Wallpaper\ for\ Free\ Download.jpg");
+        background-image: url("../Pictures/parallax.jpg");
         background-attachment: fixed;
          background-position: center;
         background-repeat: no-repeat;
